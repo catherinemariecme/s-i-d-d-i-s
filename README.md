@@ -13,9 +13,9 @@
 
 - 🔭 I’m currently working on **Desktop GUI Application, Web Backend, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [My Website/Projects](http://s6059r.herokuapp.com/projects)
+- 👨‍💻 All of my projects are available at [My Website/Projects](http://s59-60r.herokuapp.com/projects)
 
-- 📝 I regulary write articles on [My Website/Blog](http://s6059r.herokuapp.com/blog)
+- 📝 I regulary write articles on [My Website/Blog](http://s59-60r.herokuapp.com/blog)
 
 - 💬 Ask me about **Python, Django, C++, Algorithms**
 
