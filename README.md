@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm s-i-d-d-i-s</h1>
+<h1 align="center">Hi 👋, I'm Siddharth Singh</h1>
 <h3 align="center">A passionate developer and an active sport programmer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-i-d-d-i-s" alt="s-i-d-d-i-s" /> </p>
