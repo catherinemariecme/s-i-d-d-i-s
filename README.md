@@ -23,6 +23,13 @@
 
 - ⚡ Fun fact **I am ranked Legend on Assassin's Creed Unity**
 
+
+
+<a href="https://codechef.com/users/s59_60r"><img src="https://img.shields.io/badge/Codechef-2122-yellow"></a>
+<a href="https://codeforces.com/profile/Creations"><img src="https://run.kaist.ac.kr/badges/codeforces/Creations.svg"></a>
+<a href="https://atcoder.jp/users/s59_60r"><img src="https://run.kaist.ac.kr/badges/atcoder/s59_60r.svg"></a>
+<a href="https://www.topcoder.com/members/s59_60r"><img src="https://run.kaist.ac.kr/badges/topcoder/s59_60r.svg"></a>
+
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/siddharthsingh3099" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="siddharthsingh3099" height="30" width="40" /></a>
