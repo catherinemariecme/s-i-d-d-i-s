@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddharth Singh</h1>
-<h3 align="center">A passionate developer and an active sport programmer.</h3>
+<h3 align="center">A passionate developer and a sport programmer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-i-d-d-i-s" alt="s-i-d-d-i-s" /> </p>
 <p align="left">
@@ -24,6 +24,9 @@
 - ⚡ Fun fact **I am ranked Legend on Assassin's Creed Unity**
 
 
+<p align="left">
+  Not very active in Competitive Programming anymore, but if i get time or feeling, i may do some again :)
+</p>
 
 <a href="https://codechef.com/users/s59_60r"><img src="https://img.shields.io/badge/Codechef-2122-yellow"></a>
 <a href="https://codeforces.com/profile/Creations"><img src="https://run.kaist.ac.kr/badges/codeforces/Creations.svg"></a>
