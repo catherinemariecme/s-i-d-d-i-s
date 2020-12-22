@@ -24,9 +24,9 @@
 - ⚡ Fun fact **I am ranked Legend on Assassin's Creed Unity**
 
 
-<p align="left">
-  Not very active in Competitive Programming anymore, but if i get time or feeling, i may do some again :)
-</p>
+
+> Not very active in Competitive Programming anymore, but if i get time or feeling, i may do some again :)
+
 
 <a href="https://codechef.com/users/s59_60r"><img src="https://img.shields.io/badge/Codechef-2122-yellow"></a>
 <a href="https://codeforces.com/profile/Creations"><img src="https://run.kaist.ac.kr/badges/codeforces/Creations.svg"></a>
