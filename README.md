@@ -31,7 +31,7 @@
 
 
 <a href="https://codechef.com/users/s59_60r"><img src="https://img.shields.io/badge/Codechef-2122-yellow"></a>
-<a href="https://codeforces.com/profile/Creations"><img src="https://run.kaist.ac.kr/badges/codeforces/Creations.svg"></a>
+<a href="https://codeforces.com/profile/s59_60r"><img src="https://run.kaist.ac.kr/badges/codeforces/s59_60r.svg"></a>
 <a href="https://atcoder.jp/users/s59_60r"><img src="https://run.kaist.ac.kr/badges/atcoder/s59_60r.svg"></a>
 <a href="https://www.topcoder.com/members/s59_60r"><img src="https://run.kaist.ac.kr/badges/topcoder/s59_60r.svg"></a>
 
