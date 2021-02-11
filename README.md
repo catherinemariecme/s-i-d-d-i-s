@@ -13,7 +13,7 @@
   <a href="https://github.com/s-i-d-d-i-s"> <img src="https://img.shields.io/badge/Go-brightgreen.svg?style=flat" alt="s-i-d-d-i-s" /> </a>
 </p>
 
-- 🔭 I’m currently working on **Desktop GUI Application, Web Backend, Machine Learning**
+- 🔭 I’m currently working on **Desktop GUI Application, Web Backend, Discord Bots**
 
 - 👨‍💻 All of my projects are available at [My Website/Projects](http://s59-60r.herokuapp.com/projects)
 
@@ -23,7 +23,7 @@
 
 - 📫 How to reach me [Write here](https://forms.gle/D4RiRE4wS311hPZ9A) 
 
-- ⚡ Fun fact **I am ranked Legend on Assassin's Creed Unity**
+- ⚡ Fun fact **I am ranked Legend on Assassin's Creed Unity, Colonel Rank 6 in CSGO.**
 
 
 
@@ -43,7 +43,7 @@
 </p>
 
 
+[![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-i-d-d-i-s&count_private=true&show_icons=true&theme=cobalt)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-i-d-d-i-s&layout=compact" alt="s-i-d-d-i-s" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-i-d-d-i-s&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats&theme=cobalt)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-i-d-d-i-s&show_icons=true" alt="s-i-d-d-i-s" /></p>
