@@ -33,7 +33,7 @@
 <a href="https://codechef.com/users/s59_60r"><img src="https://img.shields.io/badge/Codechef-2122-yellow"></a>
 <a href="https://codeforces.com/profile/s59_60r"><img src="https://run.kaist.ac.kr/badges/codeforces/s59_60r.svg"></a>
 <a href="https://atcoder.jp/users/s59_60r"><img src="https://run.kaist.ac.kr/badges/atcoder/s59_60r.svg"></a>
-<a href="https://leetcode.com/s59_60r/"><img src="https://img.shields.io/badge/Leetcode-1730-yellow"></a>
+<a href="https://leetcode.com/s59_60r/"><img src="https://img.shields.io/badge/Leetcode-1730-ff69b4"></a>
 <a href="https://www.hackerrank.com/s5960r"><img src="https://img.shields.io/badge/Hackerrank-1835.33-green"></a>
 
 <p align="left">
