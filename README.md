@@ -15,9 +15,9 @@
 
 - 🔭 I’m currently working on **Desktop GUI Application, Web Backend, Discord Bots**
 
-- 👨‍💻 All of my projects are available at [My Website/Projects](http://s59-60r.herokuapp.com/projects)
+- 👨‍💻 All of my projects are available at [My Website/Projects](http://siddharthsingh.uno/projects)
 
-- 📝 I regulary write articles on [My Website/Blog](http://s59-60r.herokuapp.com/blog)
+- 📝 I regulary write articles on [My Website/Blog](http://siddharthsingh.uno/blog)
 
 - 💬 Ask me about **Python, Django, C++, Algorithms**
 
