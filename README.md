@@ -36,10 +36,7 @@
 <a href="https://leetcode.com/s59_60r/"><img src="https://img.shields.io/badge/Leetcode-1909-ff69b4"></a>
 <a href="https://www.hackerrank.com/s5960r"><img src="https://img.shields.io/badge/Hackerrank-1835-green"></a>
 
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/siddharthsingh3099" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="siddharthsingh3099" height="30" width="40" /></a>
-</p>
+
 
 
 [![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-i-d-d-i-s&count_private=true&show_icons=true&theme=cobalt)
