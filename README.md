@@ -13,7 +13,7 @@
   <a href="https://github.com/s-i-d-d-i-s"> <img src="https://img.shields.io/badge/Go-brightgreen.svg?style=flat" alt="s-i-d-d-i-s" /> </a>
 </p>
 
-- 🔭 I’m currently working on **Desktop GUI Application, Web Backend, Discord Bots**
+- 🔭 I’m currently working on **CNN and ML, Web Backend, Discord Bots**
 
 - 👨‍💻 All of my projects are available at [My Website/Projects](http://siddharthsingh.uno/projects)
 
