@@ -25,7 +25,11 @@
 
 - ⚡ Fun fact **I am ranked Legend on Assassin's Creed Unity, Colonel Rank 6 in CSGO.**
 
-
+- 👨‍💼I am the founder and owner of
+  - [LCPredict](http://lcpredict.herokuapp.com/)
+  - [ContestReminder](https://discord.gg/yWdAV7nFGd)
+  - [Leetcode2IDE](https://s-i-d-d-i-s.github.io/Leetcode2IDE/)
+  - [Sparky - The Codechef Bot](https://discord.gg/7vzwAye2kN)
 
 > Not very active in Competitive Programming anymore, but if i get time or feeling, i may do some again :)
 
