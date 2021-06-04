@@ -32,7 +32,7 @@
 
 <hr>
 
-#### Not very active in Competitive Programming anymore (but still very competitive 😉 ) , but if i get time or feeling, i may do some again 😄
+#### Not very active in Competitive Programming anymore (still very competitive 😉 ) , but if i get time or feeling, i may do some again 😄
 
 ## My Coding Handles
 
@@ -51,13 +51,13 @@
 
 <hr>
 
-[![ ](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://research.samsung.com/sri-b)
+[![ ](https://img.shields.io/badge/HackerEarth-Apr_2021-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://research.samsung.com/sri-b)
 - I did some more freelancing at hackerearth, where i created coding problems for Hackerearth Library.
 
-[![ ](https://img.shields.io/badge/Samsung-blue?style=for-the-badge&logo=Samsung&logoColor=Blue)](https://research.samsung.com/sri-b)
-- I did my Internship at Samsung R&D, where i worked on tasks based on machine leaning, and computer vision.
+[![ ](https://img.shields.io/badge/Samsung-Feb_2021-blue?style=for-the-badge&logo=Samsung&logoColor=Blue)](https://research.samsung.com/sri-b)
+- I did my Internship at Samsung R&D, where i worked on tasks based on machine learning, and computer vision.
 
-[![ ](https://img.shields.io/badge/GeeksForGeeks-Green?style=for-the-badge)](https://www.geeksforgeeks.org/)
+[![ ](https://img.shields.io/badge/GeeksForGeeks-May_2020-Green?style=for-the-badge)](https://www.geeksforgeeks.org/)
 - I did some freelancing at GeeksForGeeks, where i wrote a couple of articles on algorithmic topics like Convex Hull, Hamming Distance etc.
 
 ## Reach Me Through
