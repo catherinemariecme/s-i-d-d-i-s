@@ -25,7 +25,7 @@
 - ⚡ I have a passion for Inventions, I love to create apps based on fresh ideas from thin air
 
 - 👨‍💼I am the founder and owner of
-  - [LCPredict](http://lcpredict.herokuapp.com/) :offi
+  - [LCPredict](http://lcpredict.herokuapp.com/)
   - [ContestReminder](https://discord.gg/yWdAV7nFGd)
   - [Leetcode2IDE](https://s-i-d-d-i-s.github.io/Leetcode2IDE/)
   - [Sparky - The Codechef Bot](https://discord.gg/7vzwAye2kN)
