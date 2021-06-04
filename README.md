@@ -15,15 +15,13 @@
 
 - 🔭 I’m currently working on **CNN and ML, Web Backend, Discord Bots**
 
-- 👨‍💻 All of my projects are available at [My Website/Projects](http://siddharthsingh.uno/projects)
+- 📝 I occasionally share my views on [My Blog](http://siddharthsingh.uno/blog)
 
-- 📝 I regulary write articles on [My Website/Blog](http://siddharthsingh.uno/blog)
-
-- 💬 Ask me about **Python, Django, C++, Algorithms**
+- 💬 Ask me about **Python, Django, C++, Kotlin, Algorithms**
 
 - 📫 How to reach me [Write here](https://forms.gle/D4RiRE4wS311hPZ9A) 
 
-- ⚡ Fun fact **I am ranked Legend on Assassin's Creed Unity, Colonel Rank 6 in CSGO.**
+- ⚡ I have a passion for Inventions, I love to create apps based on fresh ideas from thin air
 
 - 👨‍💼I am the founder and owner of
   - [LCPredict](http://lcpredict.herokuapp.com/)
@@ -31,7 +29,7 @@
   - [Leetcode2IDE](https://s-i-d-d-i-s.github.io/Leetcode2IDE/)
   - [Sparky - The Codechef Bot](https://discord.gg/7vzwAye2kN)
 
-> Not very active in Competitive Programming anymore, but if i get time or feeling, i may do some again :)
+> Not very active in Competitive Programming anymore (but still very competitive 😉 ) , but if i get time or feeling, i may do some again 😄
 
 
 <a href="https://codechef.com/users/s59_60r"><img src="https://img.shields.io/badge/Codechef-2122-yellow"></a>
@@ -41,7 +39,8 @@
 <a href="https://www.hackerrank.com/s5960r"><img src="https://img.shields.io/badge/Hackerrank-1835-green"></a>
 
 
-
+[![ ](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) ](https://www.#.com)
+[![ ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.#.com)
 
 [![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-i-d-d-i-s&count_private=true&show_icons=true&theme=cobalt)
 
