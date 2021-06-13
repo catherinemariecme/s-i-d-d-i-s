@@ -16,7 +16,7 @@
   <a href="https://github.com/s-i-d-d-i-s"> <img src="https://img.shields.io/badge/Go-brightgreen.svg?style=for-the-badge" alt="s-i-d-d-i-s" /> </a>
 </p>
 
-- 🔭 I’m currently working on **CNN and ML, Web Backend, Discord Bots**
+- 🔭 I’m currently working on **CNN and ML, Android, Web Backend, Discord Bots**
 
 - 📝 I occasionally share my views on [My Blog](http://siddharthsingh.uno/blog)
 
