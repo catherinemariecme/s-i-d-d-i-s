@@ -7,13 +7,13 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 <p align="left">
-  <a href="https://github.com/s-i-d-d-i-s"> <img src="https://img.shields.io/badge/C++-brightgreen.svg?style=for-the-badge&logo=cplusplus" alt="s-i-d-d-i-s" /> </a>
-  <a href="https://github.com/s-i-d-d-i-s"> <img src="https://img.shields.io/badge/C-brightgreen.svg?style=for-the-badge&logo=cplusplus" alt="s-i-d-d-i-s" /> </a>
-  <a href="https://github.com/s-i-d-d-i-s"> <img src="https://img.shields.io/badge/Python-brightgreen.svg?style=for-the-badge" alt="s-i-d-d-i-s" /> </a>
-  <a href="https://github.com/s-i-d-d-i-s"> <img src="https://img.shields.io/badge/Kotlin-brightgreen.svg?style=for-the-badge" alt="s-i-d-d-i-s" /> </a>
-  <a href="https://github.com/s-i-d-d-i-s"> <img src="https://img.shields.io/badge/Java-brightgreen.svg?style=for-the-badge" alt="s-i-d-d-i-s" /> </a>
-  <a href="https://github.com/s-i-d-d-i-s"> <img src="https://img.shields.io/badge/Javascript-brightgreen.svg?style=for-the-badge" alt="s-i-d-d-i-s" /> </a>
-  <a href="https://github.com/s-i-d-d-i-s"> <img src="https://img.shields.io/badge/Go-brightgreen.svg?style=for-the-badge" alt="s-i-d-d-i-s" /> </a>
+  <a href="https://github.com/s-i-d-d-i-s"> <img src="https://img.shields.io/badge/C++-lightblue.svg?style=for-the-badge&logo=cplusplus" alt="s-i-d-d-i-s" /> </a>
+  <a href="https://github.com/s-i-d-d-i-s"> <img src="https://img.shields.io/badge/C-lightblue.svg?style=for-the-badge&logo=cplusplus" alt="s-i-d-d-i-s" /> </a>
+  <a href="https://github.com/s-i-d-d-i-s"> <img src="https://img.shields.io/badge/Python-lightblue.svg?style=for-the-badge" alt="s-i-d-d-i-s" /> </a>
+  <a href="https://github.com/s-i-d-d-i-s"> <img src="https://img.shields.io/badge/Java-lightblue.svg?style=for-the-badge" alt="s-i-d-d-i-s" /> </a>
+  <a href="https://github.com/s-i-d-d-i-s"> <img src="https://img.shields.io/badge/Javascript-lightblue.svg?style=for-the-badge" alt="s-i-d-d-i-s" /> </a>
+  <a href="https://github.com/s-i-d-d-i-s"> <img src="https://img.shields.io/badge/Kotlin-lightblue.svg?style=for-the-badge" alt="s-i-d-d-i-s" /> </a>
+  <a href="https://github.com/s-i-d-d-i-s"> <img src="https://img.shields.io/badge/Angular-lightblue.svg?style=for-the-badge" alt="s-i-d-d-i-s" /> </a>
 </p>
 
 - 🔭 I’m currently working on **CNN and ML, Android, Web Backend, Discord Bots**
